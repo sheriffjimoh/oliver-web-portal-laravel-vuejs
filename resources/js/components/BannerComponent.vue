@@ -9,22 +9,24 @@
         </ol>
         <div class="carousel-inner"  role="listbox">
           <div class="carousel-item active">
-            <img class="first-slide" src="frontend/image/banner-3.jpg" alt="First slide">
+            <img class="first-slide" src="frontend/image/banner-2.jpeg" alt="First slide">
             <div class="container">
               <div class="carousel-caption ">
                 <h1>Welcome, we are the oliver Concept.</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+        
+                <p>Where we deliver high quality and professional building materials,  made up with the best for the best<p>
+                  <p><a class="btn btn-lg btn-primary" href="https://api.whatsapp.com/send?phone=2348034478066&text=Hi%2C%20I%20need%20to%20know%20more%20about%20" role="button">Learn More</a></p>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <img class="second-slide" src="frontend/image/banner-2.jpg" alt="Second slide">
+            <img class="second-slide" src="frontend/image/banner-3.jfif" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>Another example headline.</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                <h1>What We Sell?.</h1>
+                <p>OliverConcept is your  solutions to the best tiles, wall paper,pvc and more,  that are designed for comfort,
+               for living spaces and other building concepts.</p>
+                  <p><a class="btn btn-lg btn-primary" href="https://api.whatsapp.com/send?phone=2348034478066&text=Hi%2C%20I%20need%20to%20know%20more%20about%20" role="button">Learn more</a></p>
               </div>
             </div>
           </div>

@@ -5,10 +5,9 @@
         <div class="row">
               <div class="col-lg-4 col-sm-12 com-md-6 footer-about">
                   <h2>Oliver Concept.</h2>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                      Suscipit voluptates optio debitis impedit rem molestias iure ipsa maxim
-                      e aliquam cum atque voluptatem ratione, excepturi sequi 
-                      dolores voluptatibus repellat molestiae fugit.</p>
+                  <p>OliverConcept is your one-stop dealer in modern building solutions such
+                 as tiles, wall paper,pvc and more that are designed for comfort,
+                 aesthetics and sustainability in living spaces and other building concepts.</p>
               </div>
               <div class="col-lg-5 col-sm-12 com-md-6 footer-map">
                   <h2>We Are on The Map</h2>
